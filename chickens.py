@@ -22,6 +22,6 @@ chickens = [
  'state bird?': True,
  'weight': 2.4}
 
-print(type(birds[0]))
+print(type(chickens[0]))
 
-birds[0]['longitude and latitude last sighted'] 
+chickens[0]['longitude and latitude last sighted'] 
